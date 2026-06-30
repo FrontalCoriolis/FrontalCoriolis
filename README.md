@@ -12,7 +12,7 @@ Welcome to the FrontalCoriolis' public Github code storage apparatus, it is stil
     
   </tr>
   <tr>
-     <td align="left">▕   ▓▓▓▓▓▓▓▓▒▒▒░░░░░ SNR: 12DB▕   AUDIO L _▁▂▂▄▂▁▁▂__  R _▁▂▂▄▂▁▁___</td>  
+     <td align="left">▕   ▓▓▓▓▓▓▓▓▒▒▒░░░░░ SNR: 12DB▕   AUDIO L _▁▄▂▂▁▁▂__  R _▁▄▂▂▁▁___</td>  
   </tr>
 </table>
 
